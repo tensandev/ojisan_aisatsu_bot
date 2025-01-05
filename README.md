@@ -19,8 +19,8 @@
 
 1. **リポジトリをクローンまたはダウンロード**
    ```bash
-   git clone https://github.com/your-repository/ojisan-greeting-bot.git
-   cd ojisan-greeting-bot
+   git clone https://github.com/star-dot123/ojisan_aisatsu_bot.git
+   cd ojisan_aisatsu_bot
    ```
 
 2. **依存関係をインストール**
@@ -29,20 +29,13 @@
    ```
 
 3. **Botトークンを設定**
-   `.env` ファイルを作成し、以下を記載してください。
+   `.env` ファイルに以下を記載してください。
    ```
-   TOKEN=あなたのDiscordBotトークン
+   TOKEN=※※あなたのDiscordBotトークン※※
    ```
 
 4. **挨拶構文を編集**
    `greetings.json` を開き、カスタマイズしたい挨拶構文を編集・追加してください。
-   ```json
-   [
-       "こんにちは、{user}さん！今日も元気だね！",
-       "ようこそ、{user}さん！ゆっくりしていってね！",
-       "おっ、{user}さんだ！待ってたよ～！🌟"
-   ]
-   ```
 
 ---
 
@@ -63,7 +56,7 @@
 
 ## ファイル構成
 ```
-ojisan-greeting-bot/
+ojisan_aisatsu_bot/
 ├── greetings.json      # 挨拶構文が保存されているJSONファイル
 ├── index.js            # Botのメインコード
 ├── package.json        # プロジェクト設定ファイル
