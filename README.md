@@ -83,7 +83,3 @@ const channel = member.guild.channels.cache.get('チャンネルID');
 
 ## ライセンス
 このプロジェクトはMITライセンスの下で公開されています。
-
----
-
-おじさん構文挨拶botを使って、サーバーに楽しい挨拶を届けましょう！
