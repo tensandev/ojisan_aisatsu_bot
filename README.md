@@ -82,4 +82,5 @@ const channel = member.guild.channels.cache.get('チャンネルID');
 ---
 
 ## ライセンス
-このプロジェクトはMITライセンスの下で公開されています。
+
+このプロジェクトはMITライセンスのもとで公開されています。詳細については、[LICENSE](LICENSE)ファイルをご覧ください。
