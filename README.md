@@ -56,7 +56,7 @@
 
 ## ファイル構成
 ```
-ojisan_aisatsu_bot/
+src/
 ├── greetings.json      # 挨拶構文が保存されているJSONファイル
 ├── index.js            # Botのメインコード
 ├── package.json        # プロジェクト設定ファイル
